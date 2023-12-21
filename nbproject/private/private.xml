@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/views/SystemView.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>1596</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Nueva%20carpeta/Documents/Curso%20Java/EduTin/Farmacias/src/models/SupplierDao.java</file>
+            <file>file:/D:/Nueva%20carpeta/Documents/Curso%20Java/EduTin/Farmacias/src/models/CategoryDao.java</file>
+            <file>file:/D:/Nueva%20carpeta/Documents/Curso%20Java/EduTin/Farmacias/src/views/SystemView.java</file>
+            <file>file:/D:/Nueva%20carpeta/Documents/Curso%20Java/EduTin/Farmacias/src/models/Category.java</file>
+            <file>file:/D:/Nueva%20carpeta/Documents/Curso%20Java/EduTin/Farmacias/src/controllers/CategoryController.java</file>
+            <file>file:/D:/Nueva%20carpeta/Documents/Curso%20Java/EduTin/Farmacias/src/models/DynamicComboBox.java</file>
+            <file>file:/D:/Nueva%20carpeta/Documents/Curso%20Java/EduTin/Farmacias/src/models/Purchase.java</file>
+            <file>file:/D:/Nueva%20carpeta/Documents/Curso%20Java/EduTin/Farmacias/src/controllers/ProductController.java</file>
+            <file>file:/D:/Nueva%20carpeta/Documents/Curso%20Java/EduTin/Farmacias/src/views/Print.java</file>
+            <file>file:/D:/Nueva%20carpeta/Documents/Curso%20Java/EduTin/Farmacias/src/models/Supplier.java</file>
+        </group>
+    </open-files>
+</project-private>
